@@ -6,10 +6,14 @@ nav_order: 1
 permalink: /
 ---
 
-Welcome in Ivalice, a sub-page of my main webpage. Ivalice is born from my frustration of playing Vagrant Story and having to go pages and pages of guides and disucssion in order to find something which could help me in a game I haven't touched in 20 something years.
+Welcome in Ivalice, a sub-page of my main webpage. This site will host some comprehensive guides related to games with ressources all over the internet.
 
-If I'm brave enough I will no refrain to only Vagrant Story but who knows. Sometimes, life has other plans for you. Has I want this webiste to be as useful as possible and easy to find specific information I chose to use a "documentation" style. Let's hope that I succeed in this task...
+The aim is to collect, organize and summarize some guides and tips on old "retro" games. 
 
-Let's get to work then, the  menu on the left should be self explanatory enough.
+The layout is the same as a documentation site with a search bar making it easy to look for a specific info. 
+
+At the moment, Vagrant Story and Unicorn Overlord are the two first games that will be implemented. Content will be added as I progress through the games.
+
+- Solidor.
 
 ![logo](images/logo.jpg)
