@@ -10,5 +10,7 @@ Welcome in Ivalice, a sub-page of my main webpage. Ivalice is born from my frust
 
 If I'm brave enough I will no refrain to only Vagrant Story but who knows. Sometimes, life has other plans for you. Has I want this webiste to be as useful as possible and easy to find specific information I chose to use a "documentation" style. Let's hope that I succeed in this task...
 
-Let's get to work then, the  menu on the left should be self explanatory enough
+Let's get to work then, the  menu on the left should be self explanatory enough.
+
+[logo](/images/logo.jpg)
 
