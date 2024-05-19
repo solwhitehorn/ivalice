@@ -12,5 +12,5 @@ If I'm brave enough I will no refrain to only Vagrant Story but who knows. Somet
 
 Let's get to work then, the  menu on the left should be self explanatory enough.
 
-[logo](/images/logo.jpg)
+![logo](/images/logo.jpg)
 
