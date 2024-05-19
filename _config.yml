@@ -1,8 +1,90 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Ivalice
+description: My personal collections of guides related to some old games
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://solwhitehorn.github.io/ivalice/
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+logo: "/images/logo.jpg"
+favicon_ico: "/images/favicon.ico"
+
+# Enable or disable the site search
+# Supports true (default) or false
+search_enabled: true
+
+search:
+  # Split pages into sections that can be searched individually
+  # Supports 1 - 6, default: 2
+  heading_level: 2
+  # Maximum amount of previews per search result
+  # Default: 3
+  previews: 3
+  # Maximum amount of words to display before a matched word in the preview
+  # Default: 5
+  preview_words_before: 5
+  # Maximum amount of words to display after a matched word in the preview
+  # Default: 10
+  preview_words_after: 10
+  # Set the search token separator
+  # Default: /[\s\-/]+/
+  # Example: enable support for hyphenated search words
+  tokenizer_separator: /[\s/]+/
+  # Display the relative url in search results
+  # Supports true (default) or false
+  rel_url: true
+  # Enable or disable the search button that appears in the bottom right corner of every page
+  # Supports true or false (default)
+  button: false
+  # Focus the search input by pressing `ctrl + focus_shortcut_key` (or `cmd + focus_shortcut_key` on macOS)
+  focus_shortcut_key: 'k'
+
+mermaid:
+  # Version of mermaid library
+  # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
+  version: "10.9.1"
+
+# Aux links for the upper right navigation
+aux_links:
+  "My main site":
+    - "https://solwhitehorn.github.io"
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: true
+
+nav_enabled: true
+heading_anchors: true
+
+# Color scheme supports "light" (default) and "dark"
+color_scheme: dark
+
+# Define Jekyll collections
+collections:
+  # Define a collection named "tests", its documents reside in the "_tests" directory
+  links:
+    permalink: "/:collection/:path/"
+    output: true
+
+just_the_docs:
+  # Define which collections are used in just-the-docs
+  collections:
+    # Reference the "tests" collection
+    links:
+      # Give the collection a name
+      name: Links
+      # Exclude the collection from the navigation
+      # Supports true or false (default)
+      # nav_exclude: true
+      # Fold the collection in the navigation
+      # Supports true or false (default)
+      # nav_fold: true  # note: this option is new in v0.4
+      # Exclude the collection from the search
+      # Supports true or false (default)
+      # search_exclude: true
+
+callouts:
+  warning:
+    title: Warning
+    color: red
+

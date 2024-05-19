@@ -1,6 +1,9 @@
 ---
 title: Ivalice
 layout: home
+description: "Ivalice is a collection of guides and ideads around some of the games I love." 
+nav_order: 1
+permalink: /
 ---
 
 Welcome in Ivalice, a sub-page of my main webpage. Ivalice is born from my frustration of playing Vagrant Story and having to go pages and pages of guides and disucssion in order to find something which could help me in a game I haven't touched in 20 something years.
