@@ -3,8 +3,9 @@ layout: default
 title: Collection de guides
 nav_order: 2
 has_children: false
-permalink: docs/vagrant_story
+parent: Vagrant Story
 ---
+{:toc}
 
 Voici une collection de guides que j’ai compilé au cours du temps lors de mes aventures dans Vagrant Story. Malheureusement beaucoup de ressources en ligne sont en Anglais. Mais vous verrez que des très beaux documents sont disponibles en Français.
 
