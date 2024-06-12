@@ -7,22 +7,25 @@ permalink: /
 ---
 
 
-## Explore the world of JRPGs with Ivalice
-
-Welcome to Ivalice, this site is designed to offer you a collection of the best resources, guides and data found on the net and collected in one place.
-
-
+# Bienvenue sur Ivalice
+Ce site propose une collection de guide, ressources et informations collectées sur le web et ailleurs. 
 
 ---
 
-### What you'll find on Ivalice
+### Qu’est ce que vous pouvez trouver ici?
 
-- **Complete Guides**: Collections of detailed solutions to help you conquer the most challenging quests.
-- **Tips and Strategies**: Advice on how to optimize your games and discover hidden secrets.
-- **Game Chronicles**: In-depth analyses and game reviews.
-- **Lore and Mythology**: Immerse yourself in the stories and myths that make games so captivating.
+- Une collections de solutions détaillées pour vous aider à dans votre progression. 
+- Des informations sur le développement des jeux, les coulisses, la musique, la direction artistique. 
+- Plongez dans les histoires et les mythes qui rendent ces jeux si captivants à travers des analyses sur les thématiques abordées.
 
 ---
+
+### Pour commencer !
+Servez vous du menu pour naviguer dans les différents jeux et thèmes. La barre de recherche vous permets également de trouver un article qui peut vous intéresser rapidement.
+
+---
+
+Bienvenue et j’espère que vous y trouverez ce que vous cherchez.
 
 ![logo](images/logo.jpg)
 
