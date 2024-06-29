@@ -11,6 +11,7 @@ parent: Vagrant Story
 Yasumi Matsuno est un développeur de jeux vidéo japonais renommé, né le 24 octobre 1965 à Matsusaka, dans la préfecture de Mie. Son parcours est marqué par une passion pour la narration complexe et les systèmes de jeu profonds, ce qui l’a amené à devenir une figure influente dans l’industrie du jeu vidéo.
 
 ![Matsuno et YoshiP](./Matsuno et YoshiP.jpeg)
+> Yasumi Matsuno et Naoki Yoshida en 2021 dans un interview pour [Famitsu](https://www.famitsu.com/news/202109/27234807.html). 
 
 Dès son jeune âge, Matsuno s’intéresse à la fois aux jeux vidéo et aux jeux de rôle sur table. Après avoir obtenu son diplôme de l’Université Waseda, il commence sa carrière chez Quest Corporation en 1989. Là, il travaille sur plusieurs projets mineurs avant de concevoir son premier grand succès, “Ogre Battle: The March of the Black Queen” en 1993. Ce jeu de stratégie a été acclamé pour son gameplay innovant et son histoire riche, posant les bases du style de Matsuno.
 
