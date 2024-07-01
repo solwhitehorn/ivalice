@@ -1,9 +1,9 @@
 ---
 layout: default
 title: La vision de Matsuno
-nav_order: 3
+nav_order: 2
 has_children: false
-parent: Vagrant Story
+parent: ivalice
 ---
 {:toc}
 
@@ -11,7 +11,7 @@ parent: Vagrant Story
 Yasumi Matsuno est un développeur de jeux vidéo japonais renommé, né le 24 octobre 1965 à Matsusaka, dans la préfecture de Mie. Son parcours est marqué par une passion pour la narration complexe et les systèmes de jeu profonds, ce qui l’a amené à devenir une figure influente dans l’industrie du jeu vidéo.
 
 ![Matsuno et YoshiP](./Matsuno et YoshiP.jpeg)
-> Yasumi Matsuno et Naoki Yoshida en 2021 dans un interview pour [Famitsu](https://www.famitsu.com/news/202109/27234807.html). 
+> Naoki Yoshida (à droite) et Yasumi Matsuno en 2021 lors d’un interview pour [Famitsu](https://www.famitsu.com/news/202109/27234807.html). 
 
 Dès son jeune âge, Matsuno s’intéresse à la fois aux jeux vidéo et aux jeux de rôle sur table. Après avoir obtenu son diplôme de l’Université Waseda, il commence sa carrière chez Quest Corporation en 1989. Là, il travaille sur plusieurs projets mineurs avant de concevoir son premier grand succès, “Ogre Battle: The March of the Black Queen” en 1993. Ce jeu de stratégie a été acclamé pour son gameplay innovant et son histoire riche, posant les bases du style de Matsuno.
 
@@ -23,7 +23,4 @@ Après son départ de Square Enix, Matsuno travaille en freelance sur divers pro
 
 Yasumi Matsuno est connu pour son souci du détail, sa capacité à créer des mondes immersifs et des histoires engageantes. Sa carrière, marquée par des œuvres emblématiques telles que “Ogre Battle”, “Final Fantasy Tactics” et “Final Fantasy XII”, a laissé une empreinte indélébile sur l’industrie du jeu vidéo. À ce jour, Matsuno continue d’influencer le monde du jeu vidéo avec son approche unique et ses contributions créatives, restant une figure respectée et admirée par les fans et les développeurs du monde entier.
 
-# Sakimoto (musique)
-# Minagawa (direction artistique)
-# Histoires de développement
 # Interviews
