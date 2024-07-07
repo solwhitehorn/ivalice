@@ -6,6 +6,15 @@ has_children: true
 permalink: docs/vagrant_story
 ---
 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 **Vagrant Story**, sorti en 2000, est un JRPG voir un ARPG développé par Squaresoft (aujourd'hui Square Enix). L'histoire de son développement commence sous la direction de **Yasumi Matsuno**, un créateur renommé ayant travaillé notamment sur des titres comme Final Fantasy Tactics. L'équipe de développement incluait des talents tels que **Hiroshi Minagawa** en tant que directeur artistique et **Hitoshi Sakimoto** pour la composition musicale. Le jeu a été publié exclusivement sur la PlayStation, et est rapidement devenu une référence dans le genre.
 
 L'intrigue de Vagrant Story se déroule dans le royaume de Valendia, principalement dans la cité en ruines de Léa Monde. Le joueur incarne Ashley Riot, un agent d'élite de la Valendia Knights of the Peace (VKP), enquêtant sur des activités occultes et politiques. Sans révéler trop de détails, l'histoire de Vagrant Story explore les thèmes de la mémoire, de la trahison, et du pouvoir, avec un scénario reconnu comme étant riche en rebondissements et en profondeur psychologique.
