@@ -3,7 +3,7 @@ layout: default
 title: La vision de Matsuno
 nav_order: 2
 has_children: false
-parent: ivalice
+parent: Ivalice
 ---
 {:toc}
 
